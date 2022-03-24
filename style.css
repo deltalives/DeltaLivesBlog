@@ -763,6 +763,9 @@ background-repeat: no-repeat;
 /* background-size: contain; */
 width: 100%;
 margin: auto;
+display: block;
+position: relative;
+right: 100px;
 }
 
 
