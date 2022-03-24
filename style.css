@@ -657,6 +657,8 @@ align-items: center;
 .two-blog{
   display: flex;
   flex-direction: row;
+  position: relative;
+  right: 100px;
   
 }
 
