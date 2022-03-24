@@ -795,6 +795,8 @@ body {
 }
 .top-blog,.two-blog {
   display: block;
+  position: relative;
+  left: 30px;
 }
 .top-blog p,.two-blog p{
   font-size: 2em;
