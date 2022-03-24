@@ -812,6 +812,9 @@ body {
 }
 .top-blog .content , .two-blog .content{
   width: auto;
+  display: block;
+  position: relative;
+  right: 30px;
 }
 
 .first-img {
