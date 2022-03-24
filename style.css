@@ -784,6 +784,9 @@ flex:1;
 }
 .top-blog .content{
   width: 100%;
+  display: block;
+  position: relative;
+  right: 100px;
 }
 .top-blog p {
   margin-bottom: 1em;
